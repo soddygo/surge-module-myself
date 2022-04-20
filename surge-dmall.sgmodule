@@ -1,0 +1,12 @@
+#!name=myself-rule
+#!desc=自定义域名修改
+
+[General]
+loglevel = notify
+
+[Proxy]
+Direct = direct
+
+[Rule]
+DOMAIN,dmall-os.cn,DIRECT
+DOMAIN,dmall.com,DIRECT
