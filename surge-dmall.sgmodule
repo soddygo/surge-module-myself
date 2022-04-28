@@ -8,5 +8,7 @@ loglevel = notify
 Direct = direct
 
 [Rule]
-DOMAIN,dmall-os.cn,DIRECT
-DOMAIN,dmall.com,DIRECT
+DOMAIN-SUFFIX,dmall-os.cn,DIRECT
+DOMAIN-SUFFIX,dmall.com,DIRECT
+DOMAIN-SUFFIX,guoquan.com,DIRECT
+DOMAIN-SUFFIX,rta-os.com,DIRECT
