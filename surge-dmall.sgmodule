@@ -11,6 +11,7 @@ Direct = direct
 DOMAIN-SUFFIX,dmall-os.cn,DIRECT
 DOMAIN-SUFFIX,inner-dmall.com,DIRECT
 DOMAIN-SUFFIX,fit.inner-dmall.com,DIRECT
+DOMAIN-SUFFIX,testds.dmc.api.fit.inner-dmall.com,DIRECT
 DOMAIN-SUFFIX,dmall.com,DIRECT
 DOMAIN-SUFFIX,guoquan.com,DIRECT
 DOMAIN-SUFFIX,rta-os.com,DIRECT
